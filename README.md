@@ -1,9 +1,7 @@
 # 📊 Data Science & IA Preditiva para Funil de Vendas
 
-![Python](https://shields.io)
-![Arch Linux](https://shields.io)
-![VSCodium](https://shields.io)
-![Scikit-Learn](https://shields.io)
+![Python](https://shields.io) ![Arch Linux](https://shields.io) ![VSCodium](https://shields.io) ![Scikit-Learn](https://shields.io)
+
 
 
 Este projeto consiste em uma plataforma de **Business Intelligence (BI) e Inteligência Artificial de Baixo Nível** desenvolvida para analisar a saúde financeira e a eficiência de funis de marketing digital. A aplicação consome dados históricos corporativos, aplica engenharia de recursos e treina uma IA para prever o faturamento e mapear os principais drivers de crescimento de uma empresa.
