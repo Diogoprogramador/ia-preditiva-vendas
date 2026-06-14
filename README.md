@@ -1,6 +1,10 @@
 # 📊 Data Science & IA Preditiva para Funil de Vendas
 
-![Python](https://shields.io) ![Arch Linux](https://shields.io) ![VSCodium](https://shields.io) ![Scikit-Learn](https://shields.io)
+<img src="https://shields.io" alt="Python">
+<img src="https://shields.io" alt="Arch Linux">
+<img src="https://shields.io" alt="VSCodium">
+<img src="https://shields.io" alt="Scikit-Learn">
+
 
 
 
