@@ -1,0 +1,10 @@
+--- RELATÓRIO DE PERFORMANCE DA IA ---
+Precisão do Modelo (R²): 0.9886 (98.86%)
+Erro Médio Absoluto (MAE): R$ 233.76
+
+--- PESO DE INFLUÊNCIA NO FATURAMENTO (Descoberto pela IA) ---
+-> Investimento_Mkt: 23.03% de impacto direto no faturamento
+-> Vendas_Concluidas: 20.96% de impacto direto no faturamento
+-> Visualizacoes_Anuncio: 20.55% de impacto direto no faturamento
+-> Ticket_Medio: 19.21% de impacto direto no faturamento
+-> Cliques_Anuncio: 16.26% de impacto direto no faturamento
