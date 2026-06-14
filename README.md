@@ -1,6 +1,6 @@
 # 📊 Data Science & IA Preditiva para Funil de Vendas
 
-<img src="data:image/svg+xml;utf8,<svg xmlns='http://w3.org' width='110' height='28'><rect width='110' height='28' fill='%233776AB'/><text x='55' y='18' fill='white' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>Python</text></svg>" alt="Python"> <img src="data:image/svg+xml;utf8,<svg xmlns='http://w3.org' width='110' height='28'><rect width='110' height='28' fill='%231793D1'/><text x='55' y='18' fill='white' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>Arch Linux</text></svg>" alt="Arch Linux"> <img src="data:image/svg+xml;utf8,<svg xmlns='http://w3.org' width='110' height='28'><rect width='110' height='28' fill='%232F80ED'/><text x='55' y='18' fill='white' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>VSCodium</text></svg>" alt="VSCodium"> <img src="data:image/svg+xml;utf8,<svg xmlns='http://w3.org' width='110' height='28'><rect width='110' height='28' fill='%23F7931E'/><text x='55' y='18' fill='white' font-family='sans-serif' font-size='12' font-weight='bold' text-anchor='middle'>Scikit-Learn</text></svg>" alt="Scikit-Learn">
+**Tecnologias Utilizadas:** 🐍 **Python** | 🟦 **Arch Linux** | 💻 **VSCodium** | 📊 **Scikit-Learn**
 
 
 
